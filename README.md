@@ -7,10 +7,9 @@ Every single tech thing that is intimidating sounding and scary is actually incr
 ## Analogies
 * Docker: “pretend my computer lives somewhere else”
 * AWS: “put shit on someone else’s computer, but it’s in las vegas. also make it really hard to mess with stuff on that computer with a lot of rules about who can log in to it”
-* Lambda Functions: “grab a computer from las vegas and run this 4 line python script on it, then shut down”
+* AWS Lambda: “grab a computer from las vegas and run this 4 line python script on it, then shut down”
 * Jenkins/Continuous Integration/Deployment: “take all the shit i normally do manually by logging into a computer somewhere else and doing a bunch of terminal commands and just do it for me”
 * Microservices: “only three people are ever going to want a copy of your self-published romance novel. it costs $50,000 to keep a computer in las vegas on 24/7 for a year. just pay for the 2 minutes it takes to send three people your romance novel and then throw the computer into a volcano”
 
-
-
-
+* List comprehensions: A way of creating a list that asks you right in the name if you comprehend jargon related to lists; "Lists, comprende?"
+* Lambda functions: These are anonymous functions (i.e. they don't have a definition). But dudes wanted to get calculus involved where none exists, so here we are
