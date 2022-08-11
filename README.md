@@ -13,3 +13,5 @@ Every single tech thing that is intimidating sounding and scary is actually incr
 
 * List comprehensions: A way of creating a list that asks you right in the name if you comprehend jargon related to lists; "Lists, comprende?"
 * Lambda functions: These are anonymous functions (i.e. they don't have a definition). But dudes wanted to get calculus involved where none exists, so here we are
+
+* Test
